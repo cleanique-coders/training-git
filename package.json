@@ -1,0 +1,25 @@
+{
+  "name": "101-ridhwan",
+  "version": "1.0.0",
+  "description": "Git 101 Training",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.2",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridhwandaud/training-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridhwandaud/training-git/issues"
+  },
+  "homepage": "https://github.com/ridhwandaud/training-git#readme"
+}
